@@ -1,0 +1,33 @@
+
+#resultContainer {
+    margin: 2rem;
+}
+
+.result-item {
+    margin-bottom: 20px;
+  }
+
+  .result-title {
+    font-size: 22px;
+    color: rgb(50, 142, 240);
+    font-weight: 600;
+  }
+
+  .result-title:hover {
+    text-decoration: underline;
+  }
+  
+  .link-description {
+    color: #444444;
+    font-size: 15px;
+  }
+  
+  .result-url {
+    color: #089f38;
+    text-decoration: none;
+  }
+
+  .result-url:hover {
+    text-decoration: underline;
+  }
+
